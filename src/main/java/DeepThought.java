@@ -29,6 +29,7 @@ public class DeepThought {
     }
 
     private int give_answer(){
+        
         return 42;
     }
 }
